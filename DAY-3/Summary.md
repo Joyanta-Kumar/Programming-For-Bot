@@ -19,5 +19,5 @@ _Symbol meaning_
 -------------------------------------------------------
 ### 3. What to do now
 - [x] Input - [ Output_1, Output_2, Output_n, ... ]
-- [] Based on input, specific output.
+- [x] Based on input, specific output.
 - [ ] Tata
